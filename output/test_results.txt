@@ -1,0 +1,16 @@
+test_categories_sum_to_total (test_sales.SalesTests.test_categories_sum_to_total) ... ok
+test_category_filter_and_export (test_sales.SalesTests.test_category_filter_and_export) ... ok
+test_city_filter_case_insensitive (test_sales.SalesTests.test_city_filter_case_insensitive) ... ok
+test_count (test_sales.SalesTests.test_count) ... ok
+test_date_filter (test_sales.SalesTests.test_date_filter) ... ok
+test_duplicate_id (test_sales.SalesTests.test_duplicate_id) ... ok
+test_empty_selection (test_sales.SalesTests.test_empty_selection) ... ok
+test_invalid_quantity (test_sales.SalesTests.test_invalid_quantity) ... ok
+test_malformed_xml (test_sales.SalesTests.test_malformed_xml) ... ok
+test_nonexistent_file (test_sales.SalesTests.test_nonexistent_file) ... ok
+test_stats_completed_only (test_sales.SalesTests.test_stats_completed_only) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.005s
+
+OK

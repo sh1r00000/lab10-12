@@ -1,0 +1,559 @@
+<?xml version='1.0' encoding='utf-8'?>
+<salesReport year="2026" currency="UAH" dataset="Навчальний приклад">
+  <order id="ORD-0001" date="2026-01-04" city="Харків" status="completed">
+    <item sku="EL-201" category="Електроніка">
+      <name>Бездротова миша</name>
+      <quantity>4</quantity>
+      <unit_price>640.00</unit_price>
+    </item>
+    <item sku="AC-402" category="Аксесуари">
+      <name>Рюкзак міський</name>
+      <quantity>3</quantity>
+      <unit_price>1190.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0002" date="2026-01-09" city="Одеса" status="completed">
+    <item sku="EL-201" category="Електроніка">
+      <name>Бездротова миша</name>
+      <quantity>2</quantity>
+      <unit_price>640.00</unit_price>
+    </item>
+    <item sku="BK-102" category="Книги">
+      <name>Довідник з алгоритмів</name>
+      <quantity>2</quantity>
+      <unit_price>540.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0003" date="2026-01-10" city="Суми" status="completed">
+    <item sku="BK-102" category="Книги">
+      <name>Довідник з алгоритмів</name>
+      <quantity>4</quantity>
+      <unit_price>540.00</unit_price>
+    </item>
+    <item sku="EL-202" category="Електроніка">
+      <name>USB-накопичувач 64 ГБ</name>
+      <quantity>1</quantity>
+      <unit_price>420.00</unit_price>
+    </item>
+    <item sku="ST-301" category="Канцтовари">
+      <name>Набір олівців</name>
+      <quantity>3</quantity>
+      <unit_price>125.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0004" date="2026-01-15" city="Київ" status="completed">
+    <item sku="ST-301" category="Канцтовари">
+      <name>Набір олівців</name>
+      <quantity>1</quantity>
+      <unit_price>125.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0005" date="2026-01-18" city="Львів" status="completed">
+    <item sku="ST-301" category="Канцтовари">
+      <name>Набір олівців</name>
+      <quantity>1</quantity>
+      <unit_price>125.00</unit_price>
+    </item>
+    <item sku="BK-101" category="Книги">
+      <name>Книга «Python для початківців»</name>
+      <quantity>2</quantity>
+      <unit_price>390.00</unit_price>
+    </item>
+    <item sku="BK-102" category="Книги">
+      <name>Довідник з алгоритмів</name>
+      <quantity>3</quantity>
+      <unit_price>540.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0006" date="2026-01-21" city="Харків" status="completed">
+    <item sku="AC-402" category="Аксесуари">
+      <name>Рюкзак міський</name>
+      <quantity>4</quantity>
+      <unit_price>1190.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0007" date="2026-01-24" city="Одеса" status="completed">
+    <item sku="BK-101" category="Книги">
+      <name>Книга «Python для початківців»</name>
+      <quantity>2</quantity>
+      <unit_price>390.00</unit_price>
+    </item>
+    <item sku="BK-102" category="Книги">
+      <name>Довідник з алгоритмів</name>
+      <quantity>4</quantity>
+      <unit_price>540.00</unit_price>
+    </item>
+    <item sku="AC-402" category="Аксесуари">
+      <name>Рюкзак міський</name>
+      <quantity>3</quantity>
+      <unit_price>1190.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0008" date="2026-01-25" city="Суми" status="completed">
+    <item sku="AC-401" category="Аксесуари">
+      <name>Папка для документів</name>
+      <quantity>2</quantity>
+      <unit_price>175.00</unit_price>
+    </item>
+    <item sku="BK-102" category="Книги">
+      <name>Довідник з алгоритмів</name>
+      <quantity>2</quantity>
+      <unit_price>540.00</unit_price>
+    </item>
+    <item sku="ST-302" category="Канцтовари">
+      <name>Блокнот А5</name>
+      <quantity>4</quantity>
+      <unit_price>95.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0009" date="2026-01-28" city="Київ" status="cancelled">
+    <item sku="BK-102" category="Книги">
+      <name>Довідник з алгоритмів</name>
+      <quantity>2</quantity>
+      <unit_price>540.00</unit_price>
+    </item>
+    <item sku="AC-402" category="Аксесуари">
+      <name>Рюкзак міський</name>
+      <quantity>4</quantity>
+      <unit_price>1190.00</unit_price>
+    </item>
+    <item sku="EL-201" category="Електроніка">
+      <name>Бездротова миша</name>
+      <quantity>1</quantity>
+      <unit_price>640.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0010" date="2026-02-02" city="Львів" status="completed">
+    <item sku="EL-202" category="Електроніка">
+      <name>USB-накопичувач 64 ГБ</name>
+      <quantity>1</quantity>
+      <unit_price>420.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0011" date="2026-02-03" city="Харків" status="completed">
+    <item sku="BK-101" category="Книги">
+      <name>Книга «Python для початківців»</name>
+      <quantity>1</quantity>
+      <unit_price>390.00</unit_price>
+    </item>
+    <item sku="AC-402" category="Аксесуари">
+      <name>Рюкзак міський</name>
+      <quantity>3</quantity>
+      <unit_price>1190.00</unit_price>
+    </item>
+    <item sku="AC-401" category="Аксесуари">
+      <name>Папка для документів</name>
+      <quantity>2</quantity>
+      <unit_price>175.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0012" date="2026-02-06" city="Одеса" status="completed">
+    <item sku="ST-301" category="Канцтовари">
+      <name>Набір олівців</name>
+      <quantity>3</quantity>
+      <unit_price>125.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0013" date="2026-02-11" city="Суми" status="completed">
+    <item sku="ST-301" category="Канцтовари">
+      <name>Набір олівців</name>
+      <quantity>2</quantity>
+      <unit_price>125.00</unit_price>
+    </item>
+    <item sku="BK-102" category="Книги">
+      <name>Довідник з алгоритмів</name>
+      <quantity>1</quantity>
+      <unit_price>540.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0014" date="2026-02-12" city="Київ" status="completed">
+    <item sku="BK-102" category="Книги">
+      <name>Довідник з алгоритмів</name>
+      <quantity>3</quantity>
+      <unit_price>540.00</unit_price>
+    </item>
+    <item sku="BK-101" category="Книги">
+      <name>Книга «Python для початківців»</name>
+      <quantity>3</quantity>
+      <unit_price>390.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0015" date="2026-02-17" city="Львів" status="completed">
+    <item sku="ST-302" category="Канцтовари">
+      <name>Блокнот А5</name>
+      <quantity>3</quantity>
+      <unit_price>95.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0016" date="2026-02-19" city="Харків" status="completed">
+    <item sku="AC-402" category="Аксесуари">
+      <name>Рюкзак міський</name>
+      <quantity>1</quantity>
+      <unit_price>1190.00</unit_price>
+    </item>
+    <item sku="ST-302" category="Канцтовари">
+      <name>Блокнот А5</name>
+      <quantity>1</quantity>
+      <unit_price>95.00</unit_price>
+    </item>
+    <item sku="BK-102" category="Книги">
+      <name>Довідник з алгоритмів</name>
+      <quantity>3</quantity>
+      <unit_price>540.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0017" date="2026-02-22" city="Одеса" status="completed">
+    <item sku="EL-202" category="Електроніка">
+      <name>USB-накопичувач 64 ГБ</name>
+      <quantity>1</quantity>
+      <unit_price>420.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0018" date="2026-02-25" city="Суми" status="cancelled">
+    <item sku="BK-102" category="Книги">
+      <name>Довідник з алгоритмів</name>
+      <quantity>4</quantity>
+      <unit_price>540.00</unit_price>
+    </item>
+    <item sku="AC-402" category="Аксесуари">
+      <name>Рюкзак міський</name>
+      <quantity>3</quantity>
+      <unit_price>1190.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0019" date="2026-02-27" city="Київ" status="completed">
+    <item sku="BK-102" category="Книги">
+      <name>Довідник з алгоритмів</name>
+      <quantity>1</quantity>
+      <unit_price>540.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0020" date="2026-03-03" city="Львів" status="completed">
+    <item sku="AC-402" category="Аксесуари">
+      <name>Рюкзак міський</name>
+      <quantity>1</quantity>
+      <unit_price>1190.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0021" date="2026-03-06" city="Харків" status="completed">
+    <item sku="EL-202" category="Електроніка">
+      <name>USB-накопичувач 64 ГБ</name>
+      <quantity>3</quantity>
+      <unit_price>420.00</unit_price>
+    </item>
+    <item sku="AC-402" category="Аксесуари">
+      <name>Рюкзак міський</name>
+      <quantity>4</quantity>
+      <unit_price>1190.00</unit_price>
+    </item>
+    <item sku="AC-401" category="Аксесуари">
+      <name>Папка для документів</name>
+      <quantity>3</quantity>
+      <unit_price>175.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0022" date="2026-03-10" city="Одеса" status="completed">
+    <item sku="EL-201" category="Електроніка">
+      <name>Бездротова миша</name>
+      <quantity>1</quantity>
+      <unit_price>640.00</unit_price>
+    </item>
+    <item sku="AC-402" category="Аксесуари">
+      <name>Рюкзак міський</name>
+      <quantity>3</quantity>
+      <unit_price>1190.00</unit_price>
+    </item>
+    <item sku="ST-302" category="Канцтовари">
+      <name>Блокнот А5</name>
+      <quantity>3</quantity>
+      <unit_price>95.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0023" date="2026-03-12" city="Суми" status="completed">
+    <item sku="BK-102" category="Книги">
+      <name>Довідник з алгоритмів</name>
+      <quantity>1</quantity>
+      <unit_price>540.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0024" date="2026-03-15" city="Київ" status="completed">
+    <item sku="EL-202" category="Електроніка">
+      <name>USB-накопичувач 64 ГБ</name>
+      <quantity>2</quantity>
+      <unit_price>420.00</unit_price>
+    </item>
+    <item sku="EL-201" category="Електроніка">
+      <name>Бездротова миша</name>
+      <quantity>1</quantity>
+      <unit_price>640.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0025" date="2026-03-18" city="Львів" status="completed">
+    <item sku="BK-101" category="Книги">
+      <name>Книга «Python для початківців»</name>
+      <quantity>3</quantity>
+      <unit_price>390.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0026" date="2026-03-22" city="Харків" status="completed">
+    <item sku="ST-302" category="Канцтовари">
+      <name>Блокнот А5</name>
+      <quantity>3</quantity>
+      <unit_price>95.00</unit_price>
+    </item>
+    <item sku="AC-401" category="Аксесуари">
+      <name>Папка для документів</name>
+      <quantity>4</quantity>
+      <unit_price>175.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0027" date="2026-03-23" city="Одеса" status="cancelled">
+    <item sku="AC-402" category="Аксесуари">
+      <name>Рюкзак міський</name>
+      <quantity>2</quantity>
+      <unit_price>1190.00</unit_price>
+    </item>
+    <item sku="AC-401" category="Аксесуари">
+      <name>Папка для документів</name>
+      <quantity>2</quantity>
+      <unit_price>175.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0028" date="2026-03-27" city="Суми" status="completed">
+    <item sku="ST-301" category="Канцтовари">
+      <name>Набір олівців</name>
+      <quantity>4</quantity>
+      <unit_price>125.00</unit_price>
+    </item>
+    <item sku="EL-202" category="Електроніка">
+      <name>USB-накопичувач 64 ГБ</name>
+      <quantity>1</quantity>
+      <unit_price>420.00</unit_price>
+    </item>
+    <item sku="AC-401" category="Аксесуари">
+      <name>Папка для документів</name>
+      <quantity>1</quantity>
+      <unit_price>175.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0029" date="2026-03-29" city="Київ" status="completed">
+    <item sku="ST-301" category="Канцтовари">
+      <name>Набір олівців</name>
+      <quantity>4</quantity>
+      <unit_price>125.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0030" date="2026-04-02" city="Львів" status="completed">
+    <item sku="EL-202" category="Електроніка">
+      <name>USB-накопичувач 64 ГБ</name>
+      <quantity>1</quantity>
+      <unit_price>420.00</unit_price>
+    </item>
+    <item sku="ST-302" category="Канцтовари">
+      <name>Блокнот А5</name>
+      <quantity>1</quantity>
+      <unit_price>95.00</unit_price>
+    </item>
+    <item sku="ST-301" category="Канцтовари">
+      <name>Набір олівців</name>
+      <quantity>2</quantity>
+      <unit_price>125.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0031" date="2026-04-05" city="Харків" status="completed">
+    <item sku="BK-101" category="Книги">
+      <name>Книга «Python для початківців»</name>
+      <quantity>1</quantity>
+      <unit_price>390.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0032" date="2026-04-08" city="Одеса" status="completed">
+    <item sku="ST-302" category="Канцтовари">
+      <name>Блокнот А5</name>
+      <quantity>2</quantity>
+      <unit_price>95.00</unit_price>
+    </item>
+    <item sku="BK-102" category="Книги">
+      <name>Довідник з алгоритмів</name>
+      <quantity>1</quantity>
+      <unit_price>540.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0033" date="2026-04-10" city="Суми" status="completed">
+    <item sku="ST-302" category="Канцтовари">
+      <name>Блокнот А5</name>
+      <quantity>4</quantity>
+      <unit_price>95.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0034" date="2026-04-13" city="Київ" status="completed">
+    <item sku="ST-301" category="Канцтовари">
+      <name>Набір олівців</name>
+      <quantity>3</quantity>
+      <unit_price>125.00</unit_price>
+    </item>
+    <item sku="AC-402" category="Аксесуари">
+      <name>Рюкзак міський</name>
+      <quantity>3</quantity>
+      <unit_price>1190.00</unit_price>
+    </item>
+    <item sku="BK-101" category="Книги">
+      <name>Книга «Python для початківців»</name>
+      <quantity>4</quantity>
+      <unit_price>390.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0035" date="2026-04-17" city="Львів" status="completed">
+    <item sku="AC-401" category="Аксесуари">
+      <name>Папка для документів</name>
+      <quantity>4</quantity>
+      <unit_price>175.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0036" date="2026-04-21" city="Харків" status="cancelled">
+    <item sku="ST-301" category="Канцтовари">
+      <name>Набір олівців</name>
+      <quantity>1</quantity>
+      <unit_price>125.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0037" date="2026-04-23" city="Одеса" status="completed">
+    <item sku="ST-301" category="Канцтовари">
+      <name>Набір олівців</name>
+      <quantity>1</quantity>
+      <unit_price>125.00</unit_price>
+    </item>
+    <item sku="BK-102" category="Книги">
+      <name>Довідник з алгоритмів</name>
+      <quantity>2</quantity>
+      <unit_price>540.00</unit_price>
+    </item>
+    <item sku="EL-202" category="Електроніка">
+      <name>USB-накопичувач 64 ГБ</name>
+      <quantity>2</quantity>
+      <unit_price>420.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0038" date="2026-04-27" city="Суми" status="completed">
+    <item sku="AC-402" category="Аксесуари">
+      <name>Рюкзак міський</name>
+      <quantity>4</quantity>
+      <unit_price>1190.00</unit_price>
+    </item>
+    <item sku="EL-202" category="Електроніка">
+      <name>USB-накопичувач 64 ГБ</name>
+      <quantity>3</quantity>
+      <unit_price>420.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0039" date="2026-04-28" city="Київ" status="completed">
+    <item sku="ST-301" category="Канцтовари">
+      <name>Набір олівців</name>
+      <quantity>2</quantity>
+      <unit_price>125.00</unit_price>
+    </item>
+    <item sku="EL-201" category="Електроніка">
+      <name>Бездротова миша</name>
+      <quantity>3</quantity>
+      <unit_price>640.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0040" date="2026-05-03" city="Львів" status="completed">
+    <item sku="EL-202" category="Електроніка">
+      <name>USB-накопичувач 64 ГБ</name>
+      <quantity>4</quantity>
+      <unit_price>420.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0041" date="2026-05-06" city="Харків" status="completed">
+    <item sku="ST-302" category="Канцтовари">
+      <name>Блокнот А5</name>
+      <quantity>3</quantity>
+      <unit_price>95.00</unit_price>
+    </item>
+    <item sku="AC-402" category="Аксесуари">
+      <name>Рюкзак міський</name>
+      <quantity>4</quantity>
+      <unit_price>1190.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0042" date="2026-05-08" city="Одеса" status="completed">
+    <item sku="EL-202" category="Електроніка">
+      <name>USB-накопичувач 64 ГБ</name>
+      <quantity>1</quantity>
+      <unit_price>420.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0043" date="2026-05-10" city="Суми" status="completed">
+    <item sku="AC-402" category="Аксесуари">
+      <name>Рюкзак міський</name>
+      <quantity>3</quantity>
+      <unit_price>1190.00</unit_price>
+    </item>
+    <item sku="BK-101" category="Книги">
+      <name>Книга «Python для початківців»</name>
+      <quantity>2</quantity>
+      <unit_price>390.00</unit_price>
+    </item>
+    <item sku="EL-202" category="Електроніка">
+      <name>USB-накопичувач 64 ГБ</name>
+      <quantity>4</quantity>
+      <unit_price>420.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0044" date="2026-05-13" city="Київ" status="completed">
+    <item sku="AC-401" category="Аксесуари">
+      <name>Папка для документів</name>
+      <quantity>3</quantity>
+      <unit_price>175.00</unit_price>
+    </item>
+    <item sku="EL-202" category="Електроніка">
+      <name>USB-накопичувач 64 ГБ</name>
+      <quantity>2</quantity>
+      <unit_price>420.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0045" date="2026-05-18" city="Львів" status="cancelled">
+    <item sku="ST-302" category="Канцтовари">
+      <name>Блокнот А5</name>
+      <quantity>3</quantity>
+      <unit_price>95.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0046" date="2026-05-20" city="Харків" status="completed">
+    <item sku="BK-101" category="Книги">
+      <name>Книга «Python для початківців»</name>
+      <quantity>4</quantity>
+      <unit_price>390.00</unit_price>
+    </item>
+    <item sku="ST-302" category="Канцтовари">
+      <name>Блокнот А5</name>
+      <quantity>2</quantity>
+      <unit_price>95.00</unit_price>
+    </item>
+    <item sku="ST-301" category="Канцтовари">
+      <name>Набір олівців</name>
+      <quantity>3</quantity>
+      <unit_price>125.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0047" date="2026-05-22" city="Одеса" status="completed">
+    <item sku="ST-301" category="Канцтовари">
+      <name>Набір олівців</name>
+      <quantity>4</quantity>
+      <unit_price>125.00</unit_price>
+    </item>
+    <item sku="EL-201" category="Електроніка">
+      <name>Бездротова миша</name>
+      <quantity>1</quantity>
+      <unit_price>640.00</unit_price>
+    </item>
+  </order>
+  <order id="ORD-0048" date="2026-05-25" city="Суми" status="completed">
+    <item sku="BK-102" category="Книги">
+      <name>Довідник з алгоритмів</name>
+      <quantity>2</quantity>
+      <unit_price>540.00</unit_price>
+    </item>
+  </order>
+</salesReport>
